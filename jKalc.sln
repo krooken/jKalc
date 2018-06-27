@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jKalc", "jKalc\jKalc.csproj", "{4DA9106C-BB03-4D2A-8AC4-9FA3D93608D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryManagerTest", "ConsoleApplication1\HistoryManagerTest.csproj", "{4904AEA4-F74F-460D-8351-99F2F190E831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerTest", "FileManagerTest\FileManagerTest.csproj", "{1A7E1E46-2941-4E1C-9EB4-02BC5AC4FE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenizerTest", "TokenizerTest\TokenizerTest.csproj", "{29646B5B-16CC-408A-9EBF-2B1BE8625688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA9106C-BB03-4D2A-8AC4-9FA3D93608D3}.Debug|x86.ActiveCfg = Debug|x86
+		{4DA9106C-BB03-4D2A-8AC4-9FA3D93608D3}.Debug|x86.Build.0 = Debug|x86
+		{4DA9106C-BB03-4D2A-8AC4-9FA3D93608D3}.Release|x86.ActiveCfg = Release|x86
+		{4DA9106C-BB03-4D2A-8AC4-9FA3D93608D3}.Release|x86.Build.0 = Release|x86
+		{4904AEA4-F74F-460D-8351-99F2F190E831}.Debug|x86.ActiveCfg = Debug|x86
+		{4904AEA4-F74F-460D-8351-99F2F190E831}.Debug|x86.Build.0 = Debug|x86
+		{4904AEA4-F74F-460D-8351-99F2F190E831}.Release|x86.ActiveCfg = Release|x86
+		{4904AEA4-F74F-460D-8351-99F2F190E831}.Release|x86.Build.0 = Release|x86
+		{1A7E1E46-2941-4E1C-9EB4-02BC5AC4FE34}.Debug|x86.ActiveCfg = Debug|x86
+		{1A7E1E46-2941-4E1C-9EB4-02BC5AC4FE34}.Debug|x86.Build.0 = Debug|x86
+		{1A7E1E46-2941-4E1C-9EB4-02BC5AC4FE34}.Release|x86.ActiveCfg = Release|x86
+		{1A7E1E46-2941-4E1C-9EB4-02BC5AC4FE34}.Release|x86.Build.0 = Release|x86
+		{29646B5B-16CC-408A-9EBF-2B1BE8625688}.Debug|x86.ActiveCfg = Debug|x86
+		{29646B5B-16CC-408A-9EBF-2B1BE8625688}.Debug|x86.Build.0 = Debug|x86
+		{29646B5B-16CC-408A-9EBF-2B1BE8625688}.Release|x86.ActiveCfg = Release|x86
+		{29646B5B-16CC-408A-9EBF-2B1BE8625688}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
